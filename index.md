@@ -1,7 +1,4 @@
-# StarGazers
-
-[Cast](Cast.md) | [Collectibles](Collectibles.md)
-
+# My jekyll test
 
 [LinkedIn]({{site.linkedin}})
 
